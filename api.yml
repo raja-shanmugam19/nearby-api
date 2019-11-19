@@ -1,0 +1,22 @@
+swagger: '2.0'
+info:
+  description:  NEARBY API
+  version: '1.0.0'
+  title: 'Test API'
+schemes:
+  - 'https'
+  - 'http'
+paths:
+  /amenitieslist:
+    get:
+        tags:
+        - 'root'
+        summary: 'Get the amenities'
+        description: 'to get the amenities from the json'
+        operationId: 'getAmenitiesList'
+        produces:
+        - 'application/json'
+        responses:
+        200:
+          description: 'success'    
+      
