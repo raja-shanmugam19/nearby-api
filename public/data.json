@@ -1,3 +1,30 @@
 {
-   
+    "AmenitiesList": [
+        {
+            "title": "Soap Dispenser"
+        },
+        {
+            "title": "Washbasin"
+        },
+        {
+            "title": "Security Lights"
+        },
+        {
+            "title": "Faucet for Washing"
+        },
+        {
+            "title": "Lock on doors"
+        },
+        {
+            "title": "Security Windows"
+        },
+     
+        {
+            "toilets": [
+                "Public Toilet",
+                "Coal Farm Toilet",
+                "Private Toilet "
+            ]
+        }
+    ] 
 }
