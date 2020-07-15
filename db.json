@@ -1,0 +1,88 @@
+{
+books: [
+        {
+          id:1,
+          name: 'Scikit Programming',
+          price: 100,
+          image: '@/assets/scikit.png',
+          author: 'James Gosling',
+          details: '',
+        },
+        {
+          id:2,
+          name: 'Scala Programming',
+          price: 100,
+          image: '@/assets/scala.png',
+          author: 'James Gosling',
+          details: '',
+        },
+        { 
+          id:3,
+          name: 'Python Programming',
+          price: 100,
+          image: '@/assets/python.png',
+          author: 'James Gosling',
+          details: '',
+        },
+        {
+          id:4,
+          name: 'Extjs Programming',
+          price: 100,
+          image: '@/assets/extjs.png',
+          author: 'James Gosling',
+          details: '',,
+        },
+        {
+          id:4,
+          name: 'ExtJs Programming',
+          price: 100,
+          image: '@/assets/extjs.png',
+          author: 'James Gosling',
+          details: '',
+        },
+        {
+          id: 5,
+          name: 'VueJs Programming',
+          price: 100,
+          image: '@/assets/vue.png',
+          author: 'James Gosling',
+          details: '',
+          },
+         { 
+          id: 6,
+          name: 'Angular Programming',
+          price: 100,
+          image: '@/assets/angular.png',
+          author: 'James Gosling',
+          details: '',        
+          },
+        {
+          id:7,
+          name: 'Javascript Programming',
+          price: 100,
+          image: '@/assets/javascript.png',
+          author: 'James Gosling',
+          details: '',
+        },
+        {
+          
+          id: 8,
+          name: 'Php Programming',
+          price: 100,
+          image: '@/assets/php.png',
+          author: 'James Gosling',
+          details: '',
+          },
+        {
+         
+          id: 9,
+          name: 'NodeJs Advance',
+          price: 100,
+          image: '@/assets/nodejs.png',
+          author: 'James Gosling',
+          details: '',
+          },
+      ]
+      }
+
+      
